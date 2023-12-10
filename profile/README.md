@@ -1,6 +1,7 @@
-## 🌎 Olá mundo!
+# 🌎 Olá mundo!
+- 🙋‍♀️ Somos uma escola de tecnologias de ponta Blockchain, AI, IoT Computação Quântica.
 
-🙋‍♀️ Somos uma escola de tecnologias de ponta, bockchain, AI, IoT Computação Quântica.
 
-👩‍💻 Aqui vc vai encontrar todo material extra dos cursos da escola
-
+# Materiais extras:
+- [Rust 101]()
+- [Python b101]()
