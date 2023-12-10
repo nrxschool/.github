@@ -5,4 +5,4 @@
 
 ## 📚 Está procurando os materiais extras?
 - [Rust 101]()
-- [Python b101]()
+- [Python 101]()
