@@ -7,7 +7,7 @@
 - AI
 
 ## ⭐️ O repo do Bootcamp da Optimism tá [aqui](https://github.com/nrxschool/bootcamp-optimism)
-## 👾 O Template pro Hackathon Optimism tá [aqui](https://github.com/nrxschool/template-op-hackathon) 
+## 👾 O Template pro Hackathon Optimism tá [aqui](https://github.com/nrxschool/hackathon-op-template)
 
 ## 📚 Está procurando os materiais extras?
 - [Rust 101](https://github.com/nrxschool/rust101)
