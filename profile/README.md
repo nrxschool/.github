@@ -1,10 +1,13 @@
 # 🌎 Olá mundo!
 
-## 🙋‍♀️ Somos uma escola de tecnologias disruptivas: Blockchain, AI, IoT e Computação Quântica.
+## 🙋‍♀️ Somos uma escola de tecnologias disruptivas
+- Computação Quântica.
+- Blockchain
+- IoT
+- AI
 
-
-## ⭐️ O repo do bootcamp da Optimism tá [aqui](https://github.com/nrxschool/bootcamp-optimism) 
-
+## ⭐️ O repo do Bootcamp da Optimism tá [aqui](https://github.com/nrxschool/bootcamp-optimism)
+## 👾 O Template pro Hackathon Optimism tá [aqui](https://github.com/nrxschool/template-op-hackathon) 
 
 ## 📚 Está procurando os materiais extras?
 - [Rust 101](https://github.com/nrxschool/rust101)
